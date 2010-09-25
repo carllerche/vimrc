@@ -1,9 +1,15 @@
 [submodule "bundle/vim-rails"]
 	path = bundle/vim-rails
 	url = git://github.com/tpope/vim-rails.git
-[submodule "bundle/vim-vividchalk"]
-	path = bundle/vim-vividchalk
-	url = http://github.com/tpope/vim-vividchalk.git
 [submodule "bundle/command_t"]
 	path = bundle/command_t
 	url = http://github.com/wincent/Command-T.git
+[submodule "bundle/endwise"]
+	path = bundle/endwise
+	url = http://github.com/tpope/vim-endwise.git
+[submodule "bundle/vim-surround"]
+	path = bundle/vim-surround
+	url = http://github.com/tpope/vim-surround.git
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+	url = git://github.com/scrooloose/nerdtree.git
