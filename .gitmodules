@@ -1,0 +1,9 @@
+[submodule "bundle/vim-rails"]
+	path = bundle/vim-rails
+	url = git://github.com/tpope/vim-rails.git
+[submodule "bundle/vim-vividchalk"]
+	path = bundle/vim-vividchalk
+	url = http://github.com/tpope/vim-vividchalk.git
+[submodule "bundle/command_t"]
+	path = bundle/command_t
+	url = http://github.com/wincent/Command-T.git
